@@ -2,7 +2,7 @@ name: 'merge total pix'
 
 on:
   schedule:
-    - cron: '0 18 * * *'
+    - cron: '0 15 * * *'
   watch:
       types: started
 
